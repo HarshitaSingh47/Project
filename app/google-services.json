@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749030573034",
+    "firebase_url": "https://sacred-attic-147114.firebaseio.com",
+    "project_id": "sacred-attic-147114",
+    "storage_bucket": "sacred-attic-147114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749030573034:android:72c2947fd85f9953",
+        "android_client_info": {
+          "package_name": "com.example.harshita.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749030573034-ctp1npqbiav8167vt551fshq27hs5op4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshita.project",
+            "certificate_hash": "E9257E11DCBBDB4D576756D61C2E53C9C35C71B5"
+          }
+        },
+        {
+          "client_id": "749030573034-qaat8neonlqrcjqibnregsatcgohf5bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrTOHTRJ2vw5z7GWJ3Pn1B3URmvwd1z4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749030573034-qaat8neonlqrcjqibnregsatcgohf5bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
